@@ -1,0 +1,1 @@
+Eu tentei ao maximo conseguir realizar o crud em 100% mas nao consigui por falta de experiencie, ele so consegue realizar 2 metodos. Entretanto nao desisti do projeto e finalizei, ele esta funcionando e eu espero que consiga entrar na fabrica.
